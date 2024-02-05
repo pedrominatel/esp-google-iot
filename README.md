@@ -1,5 +1,9 @@
 # ESP-Google-IoT
 
+> Notice: The [Google Cloud IoT Core](https://cloud.google.com/iot-core) is no longer available and has beed retired by Google. 
+
+https://cloud.google.com/iot-core
+
 This framework enables Google Cloud IoT Core connectivity with ESP32 based platforms using [Google Cloud IoT Device SDK](https://github.com/GoogleCloudPlatform/iot-device-sdk-embedded-c/blob/master/README.md).
 
 
